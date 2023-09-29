@@ -1,0 +1,16 @@
+.navbar{
+    background-color: black;
+}
+
+.nav-brand{
+    display: inline-block;
+    color: bisque;
+    margin-right: 100px;
+    padding: 5px;
+}
+
+.nav-menu{
+    display: inline-block;
+    color: bisque;
+    margin-right: 80px;
+}
